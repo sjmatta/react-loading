@@ -1,5 +1,5 @@
 {
-  "name": "react-loading",
+  "name": "@sjmatta/react-loading",
   "version": "0.0.9",
   "description": "React loading component",
   "main": "dist/react-loading.js",
